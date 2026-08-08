@@ -168,5 +168,6 @@ details > p {
 @media (max-width: 768px) {
   .news-container {
     flex-direction: column;
+    padding-left: 20px;
   }
 }
