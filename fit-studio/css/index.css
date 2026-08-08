@@ -173,6 +173,6 @@ details > p {
 }
 @media (max-width: 768px) {
   .news-container {
-    transform: translatex(30px);
+    transform: translatex(90px);
   }
 }
