@@ -173,6 +173,6 @@ details > p {
 }
 @media (max-width: 768px) {
   .news-container {
-    padding-left: 90px;
+    margin-left: 90px;
   }
 }
