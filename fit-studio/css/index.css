@@ -64,7 +64,7 @@
 .news-article {
   display: flex;
   flex-direction: column;
-  max-width: 284px;
+  max-width: 384px;
   background-color: #fff;
   border: 1px solid #d3cbd9;
   overflow: hidden;
