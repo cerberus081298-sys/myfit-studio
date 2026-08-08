@@ -186,6 +186,7 @@ details > p {
 @media (max-width: 768px) {
   .section-img {
     display: inline-block;
+    padding-left: 10px;
     max-width: 300px;
   }
 }
