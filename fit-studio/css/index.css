@@ -71,7 +71,7 @@
   border: 1px solid #d3cbd9;
   overflow: hidden;
 }
-.news-article::hover{
+.news-article:hover{
   box-shadow: 7px 8px 20px #333;
 }
 .news-article img {
