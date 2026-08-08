@@ -171,8 +171,3 @@ details > p {
     padding-left: 20px;
   }
 }
-@media (max-width: 768px) {
-  .news-article {
-    transform: translatex(90px);
-  }
-}
