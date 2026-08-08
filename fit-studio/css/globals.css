@@ -116,6 +116,6 @@ summary:focus-visible {
 }
 @media (max-width: 768px){
   .title-large{
-    padding-left: 45px;
+    padding-left: 75px;
   }
 }
