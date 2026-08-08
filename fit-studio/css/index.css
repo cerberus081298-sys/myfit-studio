@@ -165,7 +165,7 @@ summary::-webkit-details-marker {
 details > p {
   padding: 0 20px 20px;
 }
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .news-container {
     flex-direction: column;
   }
