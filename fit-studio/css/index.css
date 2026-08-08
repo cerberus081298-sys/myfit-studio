@@ -166,7 +166,11 @@ details > p {
   padding: 0 20px 20px;
 }
 
-
+@media (max-width: 768px) {
+  .news-container {
+    flex-direction: column;
+  }
+}
 @media (max-width: 768px) {
   .faq-container {
     max-width: 768px;
