@@ -67,7 +67,7 @@
   width: 284px;
   background-color: #fff;
   border-radius: 20px;
-  
+  transition: transform 400ms;
   border: 1px solid #d3cbd9;
   overflow: hidden;
 }
