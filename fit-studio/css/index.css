@@ -177,3 +177,25 @@ details > p {
   }
 }
 
+@media (max-width: 768px) {
+  .faq-container {
+    max-width: 768px;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 768px) {
+  .section-img {
+    max-width: 400px;
+  }
+}
+@media (max-width: 768px) {
+  .hero-container {
+    flex-direction: column;
+  }
+}
+@media (max-width: 768px) {
+  .hero-images {
+    display: none;
+  }
+}
