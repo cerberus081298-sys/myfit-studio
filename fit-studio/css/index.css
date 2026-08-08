@@ -171,7 +171,11 @@ details > p {
     flex-direction: column;
   }
 }
-
+@media (max-width: 768px) {
+  .news-container {
+    transform: translateX(45px);
+  }
+}
 @media (max-width: 768px) {
   .faq-container {
     max-width: 768px;
