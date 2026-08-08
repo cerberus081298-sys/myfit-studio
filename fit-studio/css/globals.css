@@ -115,7 +115,7 @@ summary:focus-visible {
   outline-offset: 1px;
 }
 @media (max-width: 768px) {
-  .title-large {
+  .title-large-1 {
     padding-left: 45px;
   }
 }
